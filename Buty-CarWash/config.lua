@@ -1,7 +1,7 @@
 Configuration = {
     FrameWork = "esx", -- esx | qbcore
     
-    CoreFolderName = "", 
+    CoreFolderName = "es_extended", 
 
     Prices = {1000, 2000, 3500},
 
